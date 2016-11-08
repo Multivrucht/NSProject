@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<error>
+	<message>station parameter should be provided.</message>
+</error>
